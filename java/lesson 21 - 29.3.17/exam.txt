@@ -1,0 +1,82 @@
+public class Calculator {
+
+	int num = 20;
+	
+	public void calc(int num) {
+		this.num = 2 * 10;
+	}
+	
+	public void printNum(){
+		System.out.println(num);
+	}
+	
+	public static void main(String[] args){
+		Calculator obj = new Calculator();
+		obj.calc(2);
+		obj.printNum();
+	}
+}
+
+A) 20 
+B) 100
+C) 1000
+D) 2
+
+/**********************************/
+
+public class App {
+	public static void main(String[] args) {
+		ArrayList<Integer> p = new ArrayList<>();
+		p.add(7);
+		p.add(1);
+		p.add(5);
+		p.add(1);
+		p.remove(1);
+		System.out.println(p);
+	}
+}
+
+
+/***********************************/
+
+interface Rideable {
+	String getGait();
+}
+
+public class Camel implements Rideable {
+
+	int weight = 2;
+	
+	String getGait() {
+		return "mph, lope";
+	}
+	void go (8) {
+		++speed;	
+		weight++;	
+		int walkrate = speed * weight;	
+		System.out.println(walkrate + getGait());
+	}
+	
+	public static void main(String[] args) {
+		new Camel().go(8);
+	}
+}
+
+A) 16 mph, lope.
+B) 24 mph, lope.
+C) 27 mph, lope.
+D) Compilation error.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
