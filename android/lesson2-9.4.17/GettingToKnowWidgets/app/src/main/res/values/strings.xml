@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Getting To Know Widgets</string>
+    <string name="button_text">increment</string>
+    <string name="text">This is a text</string>
+    <string name="new_text">This is the NEW text</string>
+
+</resources>
