@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="4dp">
+
+    <ImageView
+        android:layout_width="48dp"
+        android:layout_height="48dp"
+        android:id="@+id/list_item_poster_image_view"
+        android:src="@mipmap/ic_launcher"
+        android:layout_marginRight="16dp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Spy"
+        android:id="@+id/list_item_title_text_view"
+        android:layout_toRightOf="@id/list_item_poster_image_view"
+        android:textSize="18sp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="2004"
+        android:layout_marginTop="4dp"
+        android:id="@+id/list_item_year_text_view"
+        android:layout_below="@id/list_item_title_text_view"
+        android:layout_toRightOf="@id/list_item_poster_image_view"
+        android:layout_marginLeft="16dp"
+        android:textSize="12sp"/>
+
+</RelativeLayout>
