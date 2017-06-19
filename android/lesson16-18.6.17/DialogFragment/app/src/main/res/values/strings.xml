@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DialogFragment</string>
+    <string name="dialog_message">wow</string>
+</resources>
