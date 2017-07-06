@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">מה נשמע</string>
+    <string name="login_error_no_user">אין משתמש כזה</string>
+    <string name="email_hint">דוא"ל</string>
+    <string name="password_hint">סיסמא</string>
+    <string name="login_button_text">התחבר</string>
+    <string name="don_t_have_an_account_yet">אין לך עדיין חשבון?</string>
+    <string name="register">הירשם</string>
+</resources>
