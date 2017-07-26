@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "573993589647",
+    "firebase_url": "https://androidapp-66dec.firebaseio.com",
+    "project_id": "androidapp-66dec",
+    "storage_bucket": "androidapp-66dec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:573993589647:android:4af742bb0d84a543",
+        "android_client_info": {
+          "package_name": "hackeru.edu.androidapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "573993589647-tsj9fphapue66uneplasnon9asvmnshl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "hackeru.edu.androidapp",
+            "certificate_hash": "6bf2d8f37aacd5b59bb94afe7d3a2c2be4c0e8bb"
+          }
+        },
+        {
+          "client_id": "573993589647-412h4cbp9m4a5meh50kb14k7pt0q5u03.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHNzEs4sSEKk34MmvtR6oKz1DQ3Mq6MQQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "573993589647-412h4cbp9m4a5meh50kb14k7pt0q5u03.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
